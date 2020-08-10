@@ -19,3 +19,11 @@ This repository is a collection of resources for soccer data analysis websites a
 ## Passing networks 
 
 [Football passing networks using R (from Datofutbol)](https://www.datofutbol.cl/passing-networks-r/)
+
+## Event tagging tools
+[Soccer event logger](https://torvaney.github.io/projects/tracker#)
+
+[Neil Charles's chalkboard app.](http://apps.hilltop-analytics.com/chalkboard/)
+
+[Football (soccer) pitch tracker](http://johnburnmurdoch.github.io/football-pitch-tracker/)
+
