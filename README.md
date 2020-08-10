@@ -13,6 +13,7 @@ This repository is a collection of resources for soccer data analysis websites a
 
 ## Expected goals (xG)
 [Fitting your own football xG model (from Datofutbol)](https://www.datofutbol.cl/xg-model/)
+
 [HOW DATA AVAILABILITY AFFECTS THE ABILITY TO LEARN GOOD XG MODELS (KU Leuven)](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models/)
 
 ## Passing networks 
