@@ -1,4 +1,4 @@
-# soccer_data_analysis
+# Soccer data analytics resources
 This repository is a collection of resources for soccer data analysis websites and tools.
 
 
