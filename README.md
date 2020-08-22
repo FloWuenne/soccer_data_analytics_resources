@@ -16,6 +16,7 @@ This repository is a collection of resources for soccer data analysis websites a
 
 [HOW DATA AVAILABILITY AFFECTS THE ABILITY TO LEARN GOOD XG MODELS (KU Leuven)](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models/)
 
+
 ## Passing networks 
 
 [Football passing networks using R (from Datofutbol)](https://www.datofutbol.cl/passing-networks-r/)
@@ -27,3 +28,9 @@ This repository is a collection of resources for soccer data analysis websites a
 
 [Football (soccer) pitch tracker](http://johnburnmurdoch.github.io/football-pitch-tracker/)
 
+
+## Visualizing soccer data
+
+[soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots)
+
+[Visualizing the Premier League](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
