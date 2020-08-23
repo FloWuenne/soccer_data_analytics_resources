@@ -16,6 +16,7 @@ This repository is a collection of resources for soccer data analysis websites a
 
 [HOW DATA AVAILABILITY AFFECTS THE ABILITY TO LEARN GOOD XG MODELS (KU Leuven)](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models/)
 
+[xG timeline plot](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
 
 ## Passing networks 
 
