@@ -22,6 +22,10 @@ This repository is a collection of resources for soccer data analysis websites a
 
 [Football passing networks using R (from Datofutbol)](https://www.datofutbol.cl/passing-networks-r/)
 
+## Pitch control
+
+[FastSpearmanPitchControl](https://twitter.com/anenglishgoat/status/1291008465725423616?s=12)
+
 ## Event tagging tools
 [Soccer event logger](https://torvaney.github.io/projects/tracker#)
 
