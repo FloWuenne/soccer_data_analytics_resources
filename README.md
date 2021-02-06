@@ -2,6 +2,11 @@
 This repository is a collection of resources for soccer data analysis websites and tools.
 
 
+# Datasets for object detection and tracking
+
+[Free occer ball dataset in PascalVOC format](https://makeml.app/datasets/soccer-ball)
+Dataset consisting of 182 images with sooccer balls labeled.
+
 # Websites
 
 [OptaSports](https://www.optasports.com/)
