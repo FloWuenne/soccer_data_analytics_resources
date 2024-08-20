@@ -1,6 +1,9 @@
 # Soccer data analytics resources
 This repository is a collection of resources for soccer data analysis websites and tools.
 
+# Video tutorial for soccer analytics / game analysis
+
+[Computer Vision for Football Analysis in Python with Yolov8 & OpenCV](https://www.youtube.com/watch?time_continue=1417&v=yJWAtr3kvPU&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=MTM5MTE3LDEzOTExNywyODY2Ng)
 
 # Datasets for object detection and tracking
 
